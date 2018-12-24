@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fba3b5b1-d9a0-41fd-ba80-44ae9c933c69" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/elements/YoutubeHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/elements/Github.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/YoutubeHomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GithubTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/Browser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/Browser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/BrowserDataProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/BrowserDataProvider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/Comandos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/Comandos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/elements/YoutubeHome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/linux/geckodriver" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/linux/geckodriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/YoutubeHomeTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="fba3b5b1-d9a0-41fd-ba80-44ae9c933c69" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +37,8 @@
       <file leaf-file-name="GithubTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/GithubTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+            <state relative-caret-position="194">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#564#572#0" expanded="true" />
@@ -109,7 +96,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="-1" />
     <option name="width" value="1360" />
     <option name="height" value="741" />
@@ -311,7 +298,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1360" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -323,7 +309,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926472" weight="0.32861635" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32861635" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2492647" />
@@ -331,7 +317,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4292453" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4292453" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -656,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GithubTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        <state relative-caret-position="194">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#564#572#0" expanded="true" />
